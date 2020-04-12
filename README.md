@@ -9,7 +9,9 @@ With Spring Boot tools as base framework.
 
 > Using the motto: "Coding, and refactoring. Coding and refactoring!!!"
 
-In constant development, learning new concepts, and tools.
+In constant development, learning new concepts, and tools. 
+
+Something is wrong? Something could be resolved in better way?... you are right! This is a test lab :)
 
 ## What?
 

@@ -6,7 +6,7 @@ import javax.validation.constraints.NotNull;
 import java.time.LocalDateTime;
 import java.util.Objects;
 
-public class TrackPoint implements ITrackPoint {
+public class TrackPoint implements ITrackPoint, IEntity {
 
     @NotNull
     private IPoint point;
